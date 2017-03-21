@@ -1,3 +1,21 @@
+.col-md-6 {
+  border-style: solid;
+  border-width: 5px;
+  width: 45%;
+  height: 60px;
+  padding: 1px;
+  margin: 0 0 10px 40px;
+  text-align: center;
+  border-color: grey;
+  background-color:#f8f8fa;
+  font-family: 'Griffy', cursive;
+  font-size: 30px;
+}
+
+.jumbotron {
+text-align: center;
+}
+
 #JavaScript-back {
   display: none;
 }
@@ -14,16 +32,50 @@
   display: none;
 }
 
+#Methods-back {
+  display: none;
+}
 
+#Arguments-back {
+  display: none;
+}
 
-.col-md-6 {
-  border-style: solid;
-  border-width: 5px;
-  width: 45%;
-  height: 60px;
-  padding: 1px;
-  margin: 5px;
-  text-align: center;
-  border-color: grey;
-  background-color: yellow;
+#Parameters-back {
+  display: none;
+}
+
+#Return-back {
+  display: none;
+}
+
+#Strings-back {
+  display: none;
+}
+
+#Booleans-back {
+  display: none;
+}
+
+#Undefined-back {
+  display: none;
+}
+
+#Escape-back {
+  display: none;
+}
+
+#Alert-back {
+  display: none;
+}
+
+#Comments-back {
+  display: none;
+}
+
+#jQuery-back {
+  display: none;
+}
+
+#Attributes-back {
+  display: none;
 }
